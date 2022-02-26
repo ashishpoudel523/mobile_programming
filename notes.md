@@ -1,0 +1,1 @@
+spinner and listview combo
